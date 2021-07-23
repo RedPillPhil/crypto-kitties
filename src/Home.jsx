@@ -23,7 +23,7 @@ export default function Home() {
   const wallet = useSelector((state) => state.wallet);
 
   const featured = [
-    '3840837671829324',
+    '0000012133000000',
     '9092334640245223',
     '1929825512645025',
     '4485804221431312',
